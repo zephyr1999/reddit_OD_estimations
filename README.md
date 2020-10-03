@@ -18,3 +18,5 @@ computer_author_attrs.py | construct the user network from comment data for use 
 4. (optional) use network data and topic probabilities to visualize colorfields with heat_plotter.py
 
 5. use examples from cluster_and_linreg.py to generate your own models and calculate p values
+
+6. Use autoencoder.py for logistic regression analysis
